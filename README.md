@@ -33,9 +33,9 @@ At **Wriink**, we are passionate about technology and its potential to transform
 ## 📬 **Get in Touch**  
 We are always open to collaboration, partnerships, and new opportunities!  
 
-📧 **Email:** [contact@wriink.com](mailto:support@wriink.com)  
+📧 **Email:** [support@wriink.com](mailto:support@wriink.com)  
 🌐 **Website:** [www.wriink.com](https://www.wriink.com)  
-🐦 **Twitter:** [@WriinkTech](https://twitter.com/wriink)  
+🐦 **Twitter:** [@Wriink](https://twitter.com/wriink)  
 
 ---
 
