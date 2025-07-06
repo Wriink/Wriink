@@ -39,6 +39,8 @@ We are always open to collaboration, partnerships, and new opportunities!
 
 ---
 
+![GitHub Snake Dark](https://github.com/wriink/snk/raw/output/github-snake-dark.svg?palette=github-dark)
+
 **🚀 Let’s build the future, together!**
 
 
