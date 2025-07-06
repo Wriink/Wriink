@@ -1,9 +1,11 @@
 # Wriink 🚀  
+
 ### **Innovating the Digital Experience**  
 
 Welcome to **Wriink**, a multinational technology company specializing in **app development** and **online-related services**. Our mission is to provide **innovative solutions** that enhance the digital experiences of individuals and businesses. We believe in leveraging **cutting-edge technology** to create **user-friendly and impactful applications**.
 
 ---
+![snake gif](https://github.com/Wriink/Wriink/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌍 **Who We Are**  
 At **Wriink**, we are passionate about technology and its potential to transform industries. Our team of experts works tirelessly to develop high-quality applications that meet the evolving needs of users worldwide.  
@@ -38,8 +40,6 @@ We are always open to collaboration, partnerships, and new opportunities!
 🐦 **Twitter:** [@Wriink](https://twitter.com/wriink)  
 
 ---
-
-![GitHub Snake Dark](https://github.com/wriink/snk/raw/output/github-snake-dark.svg?palette=github-dark)
 
 **🚀 Let’s build the future, together!**
 
